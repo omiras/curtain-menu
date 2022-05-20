@@ -2,6 +2,10 @@
 
 En muchas situaciones, no vamos a implementar nosotros mismos las funcionalidades de una herramienta. Es decir, es habitual encontrar software que otras personas han creado, y nosotros tenemos que usarlo adecuadamente.
 
+## Versión Hardcore
+
+No uses el fichero script.js, tan solo mira como debería funcionar según esta [Demo](https://oscarm.tinytake.com/msc/Njg2MTA5NF8xOTUyNDU1Ng). Crea otro de nombre script-dificil.js e implementa tu mismo/a la solución.
+
 ## Requisitos
 
 1. Enlaza correctamente usando la etiqueta `<script>` el fichero index.html con el script **script.js**

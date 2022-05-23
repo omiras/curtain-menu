@@ -14,3 +14,5 @@ No uses el fichero script.js, tan solo mira como debería funcionar según esta 
 4. De manera similar, piensa donde debes asociar un evento click para poder cerrar el menú.
 
 [Demo](https://oscarm.tinytake.com/msc/Njg2MTA5NF8xOTUyNDU1Ng)
+
+Prupuesta de solución de [Fabián Taranto](https://github.com/fataranto/curtain-menu)
